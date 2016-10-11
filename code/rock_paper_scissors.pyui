@@ -1,0 +1,85 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{112, 80}, {100, 80}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "rock_paper_scissors_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "ROCK",
+          "uuid" : "E98D6010-22F4-46D0-806B-55ED3D98C23B",
+          "class" : "Button",
+          "name" : "rock_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{229, 80}, {100, 80}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "rock_paper_scissors_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "PAPER",
+          "uuid" : "E98D6010-22F4-46D0-806B-55ED3D98C23B",
+          "class" : "Button",
+          "name" : "paper_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{348, 80}, {100, 80}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "rock_paper_scissors_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "SCISSORS",
+          "uuid" : "E98D6010-22F4-46D0-806B-55ED3D98C23B",
+          "class" : "Button",
+          "name" : "scissors_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{112, 209}, {336, 83}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "DBD45616-4271-4CC8-AFCA-8E7CA2E98770",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "reply_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
